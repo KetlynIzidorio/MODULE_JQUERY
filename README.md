@@ -1,0 +1,2 @@
+# MODULE_JQUERY
+jquery
